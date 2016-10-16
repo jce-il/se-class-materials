@@ -1,2 +1,2 @@
 # se-class-materials
-Material wiki for slides and instructions 
+Wiki for slides and instructions 
