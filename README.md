@@ -1,10 +1,13 @@
 # se-class-materials
 Wiki for course slides and instructions 
 
+[Main wiki]()
+
+Corections or problems: open an issue or send a PR. For questions about the instructions use the course forum.
+
 - [Lecture Slides](lecture/)
 
 - [Lab Slides](lab/)
-
 
 - Project Instructions
   - [1. Idea](docs/proj1-idea.md)
@@ -15,5 +18,5 @@ Wiki for course slides and instructions
   - [6. Iterations](docs/proj1-iterations.md)
 
 - Homework Instructions
-  - [1. deploy webapp](docs/hw1-deploy-webapp.md)
+  - [1. deploy webapp](docs/hw1-deploy-webapp.md) ([invitation](https://classroom.github.com/assignment-invitations/bcd5f121567d52e45feade01e0657519))
   - [3. git](docs/hw2-git.md)
