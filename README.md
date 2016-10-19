@@ -1,7 +1,7 @@
 # se-class-materials
 Wiki for course slides and instructions 
 
-[Main wiki]()
+[Main wiki](https://github.com/jce-il/se-class/wiki)
 
 Corections or problems: open an issue or send a PR. For questions about the instructions use the course forum.
 
