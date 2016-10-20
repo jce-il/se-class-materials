@@ -1,11 +1,12 @@
 # se-class-materials
 Wiki for course slides and instructions 
 
-[Main wiki](https://github.com/jce-il/se-class/wiki)
+[![Build Status](https://travis-ci.com/jce-il/se-class-materials.svg?token=A32fEPgKUvjwnDqzT4qn&branch=master)](https://travis-ci.com/jce-il/se-class-materials)
+- [Lecture Slides](lecture/)
+
+[Main course wiki](https://github.com/jce-il/se-class/wiki)
 
 Corections or problems: open an issue or send a PR. For questions about the instructions use the course forum.
-
-- [Lecture Slides](lecture/)
 
 - [Lab Slides](lab/)
 
