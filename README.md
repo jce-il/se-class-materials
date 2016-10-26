@@ -20,4 +20,5 @@ Corections or problems: open an issue or send a PR. For questions about the inst
 
 - Homework Instructions
   - [1. deploy webapp](docs/hw1-deploy-webapp.md) ([invitation](https://classroom.github.com/assignment-invitations/bcd5f121567d52e45feade01e0657519))
-  - [3. git](docs/hw2-git.md)
+  - [2. git](docs/hw2-wireframing-angular.md)
+  - [3. git](docs/hw3-git.md)
