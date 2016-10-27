@@ -131,7 +131,7 @@
 <!-- Links -->
 [past-projects]: https://github.com/jce-il/se-class/wiki/PastProjects
 [course-projects]: https://github.com/jce-il/se-class/wiki/Projects
-[template-project]: https://github.com/robi-y/seproject-team-template
+[template-project]: https://github.com/jce-il/project-template
 [clone-wiki]: http://stackoverflow.com/questions/15080848/how-do-i-clone-a-github-wiki
 [project-naming]: http://www.codinghorror.com/blog/2007/11/whats-in-a-project-name.html
 [project-naming2]: http://channel9.msdn.com/Blogs/DevRadio/Microsoft-DevRadio-Part-1-A-Developers-Guide-to-Marketing-Your-App-Naming-Your-App
