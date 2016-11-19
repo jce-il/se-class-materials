@@ -16,7 +16,7 @@ Corections or problems: open an issue or send a PR. For questions about the inst
   - [3. SRS](docs/proj3-srs.md)
   - [4. SDS](docs/proj4-sds.md)
   - [5. ZFR](docs/proj5-zfr.md)
-  - [6. Iterations](docs/proj1-iterations.md)
+  - [6. Iterations](docs/proj6-iterations.md)
 
 - Homework Instructions
   - [1. deploy webapp](docs/hw1-deploy-webapp.md) ([invitation](https://classroom.github.com/assignment-invitations/bcd5f121567d52e45feade01e0657519))
