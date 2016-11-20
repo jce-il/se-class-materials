@@ -10,7 +10,21 @@
 מטרת משימה זו היא לכתוב את מפרט דרישות התוכנה – Software Requirements Specification - של הפרויקט שלכם, כך שתתעדו את תהליך ניתוח הדרישות שבצעתם. מפרט זה ישמש בסיס להמשך הפיתוח.
 
 ## פירוט הציון
-ראו בהמשך
+ראו בהמשך.
+
+## הנחיות הגשה כלליות
+ממשימת פרויקט 3 ומעלה, ההגשה היא ע״י פתיחת כרטיס (issue) במערכת המשימות של מאגר הפרויקט ושיוכו למתרגל\ת.
+
+בכותרת הכרטיס יש לציין את המשימה, למשל: project3-srs-submission בפרטי הכרטיס יש לתת קישורים רלוונטיים לתיעוד (במיוחד עמוד הויקי של ההגשה), קוד והפצה.
+
+בנוסף:
+
+יש לפרסם הודעה בחדר הצ׳אט של הפרויקט על ההגשה עם תיוג (@) המרצה והמתרגל\ת והפניה (קישור) לכרטיס שנפתח (#xx) (יש להזמין אותנו לחדרים ואנחנו נהיה שם במוד שקט ונשים לב להודעות רק אם קוראים לנו).
+
+במשימות מימוש (סבבי פיתוח) יש להוסיף תג מתאים למערכת בקרת הגרסאות.
+כל חברי הצוות ממלאים הערכת עמיתים (בסבבים בהם הוגדר).
+
+פירוט הנחיות להגשה במשימה זו בהמשך.
 
 ## הנחיות עבודה
 
@@ -58,7 +72,7 @@
 
 ### הנחיות הגשה וציונים
 
-הגשה: ההגשה ממשימה זו והלאה ע״י פתיחת כרטיס במערכת המשימות והודעה בחדר הצ׳אט. פירוט ב[הנחיות ההגשה][submission].
+הגשה: ההגשה ממשימה זו והלאה ע״י פתיחת כרטיס במערכת המשימות והודעה בחדר הצ׳אט. כמפורט לעיל.
 
 
 #### עד לערב ההרצאה הבאה:
@@ -108,8 +122,7 @@
 
 <!-- Links -->
 [coursewiki-meetings]: https://github.com/jce-il/se-class/wiki/Meetings#srs-review
-[srs-template]: http://jce-il.github.io/se-class/project/se-proj03-srs-template.docx
-[srs-wiki-template]: https://github.com/robi-y/seproject-team-template/wiki/srs
+[srs-template]: ./se-proj03-srs-template.docx
+[srs-wiki-template]: https://github.com/jce-il/project-template/wiki/srs
 [demorepo-srs-review]: https://github.com/robi-y/seproject-team-template/wiki/SRS-Review-Summary
-[submission]: {{ site.baseurl }}/assessments/#assessment-project
 [ReadySET]: http://readyset.tigris.org
