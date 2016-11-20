@@ -32,12 +32,18 @@
 באתר של AngularJS, ניתן למצוא את כל הדוקומנטציה, התקנה ודוגמאות: [angularjs](https://angularjs.org) .
 
 ##  איך זה עובד?
-הלוגיקה של האפליקציה נמצאת בתוך קובץ js ראשי, בו ניצור Module. ה- Module הינו הייצוג המרכזי של האפליקציה שלנו, בו אנו מגדירים את תכונות האפליקציה ואת התנהגותה.
+הלוגיקה של האפליקציה נמצאת בתוך קובץ js ראשי, בו ניצור Module.
+ה- Module הינו הייצוג המרכזי של האפליקציה שלנו, בו אנו מגדירים את תכונות האפליקציה ואת התנהגותה.
 הגדרה של Module:
+
 var "myApp"= angular.module("myApp", []);
+
 קשר ה- Module ל- view הרצוי בעזרת התגית ng-app, לדוגמה:
+
 <html ng-app="myApp">
+
 ה- Controller הינו פונקציית js המשתמש כבקר בין ה-view (התצוגה) ל-model (הנתונים), לדוגמה:
+
 <img src="angular-scope.png">
 
 ## Angular Routing
@@ -49,6 +55,7 @@ var "myApp"= angular.module("myApp", []);
 
 ## התחלת התרגיל 
 כל סטודנט נדרש להכין 3 מסכים (קוד, דפי HTML, CSS, JS כיוצ”ב ולא Mockup), המסכים נדרשים להיות מקושרים ביניהם (ניתן יהיה לבצע מעבר בין הדפים) באמצעות AngularJS בסיסי.
+
 הדף הראשי (home) יכיל Navigation Menu לדוגמה:
 
 <img src="navigationMenu.png">
