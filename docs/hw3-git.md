@@ -4,11 +4,7 @@
 
 # לימוד בקרת תצוגה עם git
 
-העבודה לפני ההנחיות בעמוד הראשי של מאגר התרגיל:
-<a href="https://github.com/jce-il/git-immersion">https://github.com/jce-il/git-immersion</a>
-
-הגשת קישור בטופס לרשימת ה- commits בעותק מאגר התרגיל בחשבון שלכם, למשל:<br/>
-https://github.com/robi-y/hello/commits 
+העבודה לפי ההנחיות בעמוד ה- readme במאגר ששכפלתם ע״י לחיצה על קישור ה[הזמנה](https://classroom.github.com/assignment-invitations/03dc4c8585f5c644d97510be2ba7fec1).
 
 ## הגשה
 שבועיים אחרי הרצאת בקרת התצורה
