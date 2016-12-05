@@ -1,6 +1,13 @@
+<div dir="rtl">
+<div>
+</div>
+
+חזרה ל[עמוד ראשי](../../..)
+
+
 # הקלדה עיוורת
 משימות קורס אישית בקצב אישי היא להגיע לרמה [אמצעית][intermediate] (intermediate) של הקלדה עיוורת, יש לפתוח חשבון בשרות typing.com עם שם משתמש בפורמט הבא: 
-<div dir="ltr">se2017b-&lt;github-user-name&gt;</div> 
+<div dir="ltr">se2017a-&lt;github-user-name&gt;</div> 
 (למשל se2017a-robi-y) דרך ההזמנה לאתר בכתובת:
 
 [http://www.typing.com/student/join#jce-il](http://www.typing.com/student/join#jce-il)
