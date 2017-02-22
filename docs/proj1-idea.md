@@ -36,7 +36,7 @@
 
 השנה אנחנו מפתחים מוצרי תוכנה עובר ארגונים חברתיים בירושלים והזמנו את הארגונים ליריד במכללה, זאת כדי ליצור קשר בלתי אמצעי בין הסטודנטים לארגונים. מומלץ לבקר בכמה שיותר ארגונים אך כל סטודנט נדרש לסקור שתי הצעות יותר לעומק.
 
-[רשימת הרעיונות]
+#### [רשימת הרעיונות]
 
 במצגות השיעור הראשון תמצאו קישורים לסקרי [רעיונות מקורס קודמים][prev-ideas] להתרשמות. 
 
@@ -84,8 +84,8 @@
 ### הוראות הגשה
 
 - בחירת שתי הצעות לסקירה ע״י רישום שמך ב[טבלת השיבוץ]  (מספיק שם פרטי ואות ראשונה)
-- השתתפות ביריד ומילוי דף הסקר תוך כדי או מיד לאחריו
-- שליחת אישית של עדיפויות לפרויקט ב[טופס ההרשמה] 
+- השתתפות ביריד ומילוי [טופס סקר]ֿ
+- שליחת אישית של עדיפויות לפרויקט ב[טופס רישום] 
 
 יש להוסיף בטופס פסקה עם תיאור כללי של הסיבה לבחירה שלכם, במקרה שאתם חלק מצוות מוצע יש להוסיף פסקה שבה תשכנעו שהצוות הוא בעל **שונות** (diversity) (ראו גם בהגדרות [משימה קבוצתית 2][project2])
 
@@ -106,8 +106,8 @@
 0. [ReadySet תבנית הצעת פרויקט מאתר תבניות](http://readyset.tigris.org/nonav/templates/proposal.html)
 0.	Jonathan Rasmusson, [Ten Questions You’d Be Crazy not to Ask at the Start of Your Project](
 http://www.pragprog.com/magazines/2010-10/way-of-the-agile-warrior)
-0.	[תבנית למצגת מבוססת על המאמר הקודם](http://agilewarrior.files.wordpress.com/2011/02/blank-inception-deck1.pptx)
-0.	[טיפים לפרויקט תוכנה לסטודנטים](http://www.comp.nus.edu.sg/~damithch/guide3e/)
+0. [תבנית למצגת מבוססת על המאמר הקודם](http://agilewarrior.files.wordpress.com/2011/02/blank-inception-deck1.pptx)
+0. [טיפים לפרויקט תוכנה לסטודנטים](http://www.comp.nus.edu.sg/~damithch/guide3e/)
 0.	[טיפים לכתיבת מצגת לדוגמא](http://www.slideshare.net/Digitaldarren/top-tips-for-power-point-ignite-style-presentation)
 
 בהנאה ובהצלחה
@@ -125,8 +125,8 @@ http://www.pragprog.com/magazines/2010-10/way-of-the-agile-warrior)
 [טופס רישום]:  https://docs.google.com/forms/d/e/1FAIpQLScX2G4Ty4tQqXSgYrQdrE5UJP99eSSNo-94kczhgZjd-vLpxw/viewform
 [טופס סקר]: https://docs.google.com/forms/d/e/1FAIpQLScmCD1Pfj01_5YuoVklb7bSpSLNe9cVBEsS3MdvPzAqPgp0PA/viewform
 https://docs.google.com/forms/d/e/1FAIpQLScX2G4Ty4tQqXSgYrQdrE5UJP99eSSNo-94kczhgZjd-vLpxw/viewform
-[טבלת שיבוץ]: https://docs.google.com/document/d/1oLp-9rMG0Ol4qlQMQ4oKjlNFgYAHQjzqzNBE0EsZNtU/edit?usp=sharing
-[רשימת ארגונים]: ./organizations.pdf
+[טבלת השיבוץ]: https://docs.google.com/document/d/1oLp-9rMG0Ol4qlQMQ4oKjlNFgYAHQjzqzNBE0EsZNtU/edit?usp=sharing
+[רשימת הרעיונות]: ./organizations.pdf
 
 
 </div>
