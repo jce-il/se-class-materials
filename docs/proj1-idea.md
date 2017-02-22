@@ -76,16 +76,14 @@
 0. מהי המערכת שתפותח? איזו בעיה היא פותרת? מי הם הלקוחות והמשתמשים.
 0. מדוע היא כדאית לפיתוח (business case)? מהן החלופות כיום? 
 0. שם מוצע לפרויקט ולמוצר (באנגלית)
-0. תיכון - תיאור ברמה ראשונית של הרכיבים\מודולים שישמשו במערכת. הוסיפו תרשים אחד לפחות ([דוגמאות][uml-diagrams]).
-0. שימוש חוזר - שפות תוכנה וספריות\שירותים מתוכננים לשימוש. יש להתחשב באילוצים שלעיל, מומלץ לבחור בסביבה המאפשרת פיתוח תשתיות וממשקים מהיר (RAD). מה מעניין בפרויקט מבחינה טכנית\טכנולוגית?
-0. חווית משתמש - התייחסות ראשונית לנושא ממשק המשתמש  – רעיונות או שרטוט ראשוני על השימוש העיקרי במוצר.
-0. תכנון - פרטו בקצרה שלבים שלדעתכם נדרשים כדי לממש את הפרויקט.
-0. סיכונים מה לדעתכם הסיכונים והבעיות העיקריים שתיתקלו בהם במהלך הפרויקט? כיצד תנמיכו או תתמודדו איתם. פרטו דרכים בהם אפשר לפתור את הבעיה ללא פיתוח תוכנה? מהם הייתרונות שנקבל מהשקעה בפיתוח. 
+0. תיכון - תיאור ברמה ראשונית של הרכיבים\מודולים שישמשו במערכת. הוסיפו תרשים אחד לפחות ([דוגמאות][uml-diagrams]). שפות תוכנה וספריות\שירותים מתוכננים לשימוש. 
+0. תכנון ראשוני - פרטו בקצרה שלבים שלדעתכם נדרשים כדי לממש את הפרויקט.
+0. סיכונים -  מה לדעתכם הסיכונים והבעיות העיקריים שהפרויקט עלול להיתקל בהם? כיצד תנמיכו או תתמודדו איתם. האם אפשר לפתור את הבעיה ללא פיתוח תוכנה? מהם הייתרונות שיכולים להתקבל מהשקעה בפיתוח. 
 0. הערות נוספות - עם מי התייעצתם במהלך הסקר, שאלות פתוחות וכדו׳
 
 ### הוראות הגשה
 
-- בחירת שתי הצעות לסקירה ע״י רישום שמך ב[טבלת השיבוץ] (מספיק שם פרטי ואות ראשונה)
+- בחירת שתי הצעות לסקירה ע״י רישום שמך ב[טבלת השיבוץ]  (מספיק שם פרטי ואות ראשונה)
 - השתתפות ביריד ומילוי דף הסקר תוך כדי או מיד לאחריו
 - שליחת אישית של עדיפויות לפרויקט ב[טופס ההרשמה] 
 
@@ -123,10 +121,13 @@ http://www.pragprog.com/magazines/2010-10/way-of-the-agile-warrior)
 [project2]: [[project/project2-team]]
 [google-blog-risk]: https://testing.googleblog.com/2016/06/the-inquiry-method-for-test-planning.html
 [uml-diagrams]: http://en.wikipedia.org/wiki/Applications_of_UML
-[issue-attach]: https://help.github.com/articles/file-attachments-on-issues-and-pull-requests/
-[meeting-page]: https://github.com/jce-il/se-class/wiki/Meetings
-[idea-folder]: https://github.com/jce-il/se-class/tree/master/ideas/2016
-[פורום הקורס]: 
+[פורום הקורס]: https://gitter.im/jce-il/se17b
+[טופס רישום]:  https://docs.google.com/forms/d/e/1FAIpQLScX2G4Ty4tQqXSgYrQdrE5UJP99eSSNo-94kczhgZjd-vLpxw/viewform
+[טופס סקר]: https://docs.google.com/forms/d/e/1FAIpQLScmCD1Pfj01_5YuoVklb7bSpSLNe9cVBEsS3MdvPzAqPgp0PA/viewform
+https://docs.google.com/forms/d/e/1FAIpQLScX2G4Ty4tQqXSgYrQdrE5UJP99eSSNo-94kczhgZjd-vLpxw/viewform
+[טבלת שיבוץ]: https://docs.google.com/document/d/1oLp-9rMG0Ol4qlQMQ4oKjlNFgYAHQjzqzNBE0EsZNtU/edit?usp=sharing
+[רשימת ארגונים]: ./organizations.pdf
+
 
 </div>
 
