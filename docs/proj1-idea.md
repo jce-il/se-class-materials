@@ -84,7 +84,7 @@
 ### הוראות הגשה
 
 - בחירת שתי הצעות לסקירה ע״י רישום שמך ב[טבלת השיבוץ] - (מספיק שם פרטי ואות ראשונה)
-- השתתפות ביריד ומילוי [טופס סקר]ֿ. תוכלו להתרשם מכלל הסקרים שמולאו וכך לבחור את הפרויקטים המועדפים על ידיכם.
+- השתתפות ביריד ומילוי [טופס סקר]ֿ. תוכלו להתרשם מ[כלל הסקרים] שמולאו וכך לבחור את הפרויקטים המועדפים על ידיכם.
 - שליחה אישית של עדיפויות לפרויקט ב[טופס רישום] 
 
 יש להוסיף בטופס פסקה עם תיאור כללי של הסיבה לבחירה שלכם, במקרה שאתם חלק מצוות מוצע של חמישה סטודנטים יש להוסיף פסקה שבה תשכנעו שהצוות הוא בעל **שונות** (diversity) (ראו גם בהגדרות [משימה קבוצתית 2][project2])
@@ -124,8 +124,8 @@ http://www.pragprog.com/magazines/2010-10/way-of-the-agile-warrior)
 [uml-diagrams]: http://en.wikipedia.org/wiki/Applications_of_UML
 [פורום הקורס]: https://gitter.im/jce-il/se17b
 [טופס רישום]:  https://docs.google.com/forms/d/e/1FAIpQLScX2G4Ty4tQqXSgYrQdrE5UJP99eSSNo-94kczhgZjd-vLpxw/viewform
-[טופס סקר]: https://docs.google.com/forms/d/e/1FAIpQLScmCD1Pfj01_5YuoVklb7bSpSLNe9cVBEsS3MdvPzAqPgp0PA/viewform
-https://docs.google.com/forms/d/e/1FAIpQLScX2G4Ty4tQqXSgYrQdrE5UJP99eSSNo-94kczhgZjd-vLpxw/viewform
+[טופס סקר]:https://docs.google.com/forms/d/e/1FAIpQLScmCD1Pfj01_5YuoVklb7bSpSLNe9cVBEsS3MdvPzAqPgp0PA/viewform 
+[כלל הסקרים]: https://docs.google.com/spreadsheets/d/1y_sOGkOHcNAArdgfGEl27wuxQ_TnzfLDeO0PTW708ks/edit#gid=603015203
 [טבלת השיבוץ]: https://docs.google.com/document/d/1oLp-9rMG0Ol4qlQMQ4oKjlNFgYAHQjzqzNBE0EsZNtU/edit?usp=sharing
 [רשימת הרעיונות]: ./organizations.pdf
 [הדרכה בתרגיל אישי 1]: https://github.com/jce-il/se-class-materials/blob/master/docs/hw1-deploy-webapp.md#git--github
