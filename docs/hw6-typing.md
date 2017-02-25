@@ -8,7 +8,7 @@
 # הקלדה עיוורת
 משימות קורס אישית בקצב אישי היא להגיע לרמה [אמצעית][intermediate] (intermediate) של הקלדה עיוורת, יש לפתוח חשבון בשרות typing.com עם שם משתמש בפורמט הבא: 
 <div dir="ltr">se2017a-&lt;github-user-name&gt;</div> 
-(למשל se2017a-robi-y) דרך ההזמנה לאתר בכתובת:
+(למשל se201ba-robi-y) דרך ההזמנה לאתר בכתובת:
 
 [http://www.typing.com/student/join#jce-il](http://www.typing.com/student/join#jce-il)
 
@@ -23,6 +23,6 @@
 ### תאריכים
 עד היום האחרון של הסמסטר
 
-[הזמנה למאגר]: https://classroom.github.com/assignment-invitations/4c1b980090f50825d542bc0f04b9794c
+[הזמנה למאגר]: 
 [intermediate]: https://www.typing.com/student/lessons/331
 [class-scoreboard]: https://www.typing.com/student/scoreboard

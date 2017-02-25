@@ -10,6 +10,8 @@ Corections or problems: open an issue or send a PR. For questions about the inst
 ### [Lecture Slides](lecture/)
 ### [Lab Slides](lab/)
 
+** Note: instructions are being updated towards the relevant class! **
+
 ### Project Instructions - Team
   - [1. Idea](docs/proj1-idea.md) - personal
   - [2. Inception](docs/proj2-inception.md)

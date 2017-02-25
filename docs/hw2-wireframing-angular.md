@@ -73,5 +73,5 @@ var "myApp"= angular.module("myApp", []);
 בהצלחה!
 
 <!-- links -->
-[ex2-repo-invitation]: https://classroom.github.com/assignment-invitations/38ea127fc93c870742dca2a1338e9b43
+[ex2-repo-invitation]: 
 
