@@ -61,7 +61,7 @@ GitHub הוא שרות git וכן מערכת ניהול פרויקטי תוכנ�
 
 שימו לב לנושאים של [אתיקה ושימוש][using-group-chat] נכון באפשרויות השונות.
 
-:הירשמו לפורום הרלוונטי: [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jce-il/se-class-2017a)
+:הירשמו לפורום הרלוונטי: [![Gitter](https://badges.gitter.im/Join%20Chat.svg)][course-chat]
 שלחו הודעת ברוכים הבאים לקורס, צוות הקורס בתמורה יוסיף לכם הרשאות בקבוצת הקורס.
 
 השרות מאפשר גם שליחת הודעה פרטי
@@ -99,4 +99,5 @@ GitHub הוא שרות git וכן מערכת ניהול פרויקטי תוכנ�
 [course-wiki]: https://github.com/jce-il/se-class/wiki
 [web-links]:https://github.com/jce-il/se-class/wiki/Links
 [using-group-chat]: https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d#.yur7rp88a
-[ex1-repo-invitation]: https://classroom.github.com/assignment-invitations/bcd5f121567d52e45feade01e0657519
+[course-chat]: https://gitter.im/jce-il/se17b
+[ex1-repo-invitation]: 
