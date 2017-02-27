@@ -75,16 +75,13 @@ GitHub הוא שרות git וכן מערכת ניהול פרויקטי תוכנ�
 
 בתור התחלה נפיץ שלד אפליקציה שמכיל את הרכיבים הבסיסיים של אפליקציית רשת מליאה המכילה: צד שרת, בסיס נתונים וצד לקוח. הקוד יאוחסן בגיטהאב ויסנכרן עם ספק ענן heroku. בדרך כלל מחוללים במחשב מקומי ובודקים לפני ההפצה, אבל אנחנו נשתמש בקוד מוכן ונפיץ אותו ישר.
 
-####  Heroku - פתיחת חשבון
+####  Firebase - פתיחת חשבון
 
-עליכם לפתוח חשבון ב- heroku:
+עליכם לפתוח חשבון ב- firebase:
 לכו לעמוד הבית:
+[https://firebase.google.com/]
 
-![heroku homepage](./heroku.PNG)
-
-והירשמו לשרות ע"י הזנת שם מלא, מייל וארץ.
-לאחר מכן תידרשו לאשר את יצירת החשבון בלחיצה על לינק שנקבל במייל. הקישור יוביל אותנו לבחירת סיסמא. 
-
+והירשמו לשרות.
 
 #### התחלת התרגיל / שכפול הקוד
 
@@ -96,6 +93,7 @@ GitHub הוא שרות git וכן מערכת ניהול פרויקטי תוכנ�
 [עורך קוד visual studio code][code-editor].
 
 <!-- links -->
+[firebase]: https://firebase.google.com/
 [code-editor]: https://code.visualstudio.com/
 [team]: https://github.com/orgs/jce-il/teams/students2017a
 [course-wiki]: https://github.com/jce-il/se-class/wiki
