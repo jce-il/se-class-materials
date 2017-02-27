@@ -93,11 +93,13 @@ GitHub הוא שרות git וכן מערכת ניהול פרויקטי תוכנ�
 יש לעקוב אחר ההוראות בעמוד הראשי והמדריך שם.  תצטרכו לבצע עדכון קטן לאפליקציה וכן לעדכן את פרטיכם ופרטי ההפצה בעמוד הראשי.
 
 #### עורך קוד / IDE
+[עורך קוד visual studio code][[code-editor].
 
 <!-- links -->
+[code-editor]: https://code.visualstudio.com/
 [team]: https://github.com/orgs/jce-il/teams/students2017a
 [course-wiki]: https://github.com/jce-il/se-class/wiki
 [web-links]:https://github.com/jce-il/se-class/wiki/Links
 [using-group-chat]: https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d#.yur7rp88a
 [course-chat]: https://gitter.im/jce-il/se17b
-[ex1-repo-invitation]: https://code.visualstudio.com/
+[ex1-repo-invitation]: https://classroom.github.com/assignment-invitations/fcc867e1dde1f3316f3f745a17906848
