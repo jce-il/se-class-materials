@@ -93,7 +93,7 @@ GitHub הוא שרות git וכן מערכת ניהול פרויקטי תוכנ�
 יש לעקוב אחר ההוראות בעמוד הראשי והמדריך שם.  תצטרכו לבצע עדכון קטן לאפליקציה וכן לעדכן את פרטיכם ופרטי ההפצה בעמוד הראשי.
 
 #### עורך קוד / IDE
-[עורך קוד visual studio code][[code-editor].
+[עורך קוד visual studio code][code-editor].
 
 <!-- links -->
 [code-editor]: https://code.visualstudio.com/
