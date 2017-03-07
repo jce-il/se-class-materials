@@ -1,6 +1,9 @@
 First assignment:
 [https://classroom.github.com/assignment-invitations/fcc867e1dde1f3316f3f745a17906848]
 
+Second assignment:
+[https://classroom.github.com/assignment-invitations/554704687926ebca01457a3a068e6e2b]
+
 install:
 - node.js
 
