@@ -116,5 +116,5 @@ _הערכה_: כמעט בלתי אפשרי להעריך מאמץ הנדרש למ
 
 <!--links-->
 [gfm-issues]: https://github.com/blog/1375-task-lists-in-gfm-issues-pulls-comments
-[repo-template]: https://github.com/robi-y/seproject-team-template/issues
+[repo-template]: https://github.com/jce-il/project-template/issues
 [iteration1]: https://github.com/jce-il/se-class-materials/blob/master/docs/proj6-iterations.md#1-תכנון-הסבב-הבא
