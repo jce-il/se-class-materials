@@ -2,7 +2,7 @@
 <div>
 </div>
 
-חזרה ל[עמוד ראשי](../../..)
+חזרה ל[עמוד ראשי](../../../../..)
 
 # פרויקט 3 – מפרט דרישות תוכנה - Software Requirements Specification
 
@@ -123,5 +123,5 @@
 [coursewiki-meetings]: https://github.com/jce-il/se-class/wiki/Meetings#srs-review
 [srs-template]: ./se-proj03-srs-template.docx
 [srs-wiki-template]: https://github.com/jce-il/project-template/wiki/srs
-[demorepo-srs-review]: https://github.com/robi-y/seproject-team-template/wiki/SRS-Review-Summary
+[demorepo-srs-review]: https://github.com/jce-il/project-template/wiki/SRS-Review-Summary
 [ReadySET]: http://readyset.tigris.org

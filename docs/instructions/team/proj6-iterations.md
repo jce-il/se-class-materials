@@ -2,7 +2,7 @@
 <div>
 </div>
 
-חזרה ל[עמוד ראשי](../../..)
+חזרה ל[עמוד ראשי](../../../../..)
 
 # פרויקט קבוצתי 6 – פיתוח בסבבים –Iterations 
 
@@ -160,6 +160,6 @@ http://users.csc.calpoly.edu/~jdalbey/305/Lectures/SmellsToRefactorings
 ~~רשות: הכינו גראף הסוקר את החשיבות לדעתכם של תהליכים, שיטות וכלים שנלמד בקורס.<br/>~~.
 
 <!-- Links -->
-[submission-issue]: https://github.com/robi-y/seproject-team-template/issues/4
+[submission-issue]: https://github.com/jce-il/project-template/issues/1
 [issue-template]: https://github.com/jce-il/project-template/blob/master/.github/ISSUE_TEMPLATE.md
 [Releases]: https://help.github.com/articles/creating-releases 

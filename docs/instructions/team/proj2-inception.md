@@ -2,7 +2,7 @@
 <div>
 </div>
 
-חזרה ל[עמוד ראשי](../../..)
+חזרה ל[עמוד ראשי](../../../../..)
 
 # פרויקט 2 – אתחול פרויקט - Software Project Inception
 
@@ -138,7 +138,6 @@
 [markdown-guide]: https://guides.github.com/features/mastering-markdown/
 [markdown-local]: https://help.github.com/articles/adding-and-editing-wiki-pages-locally/
 [fork-help]:  https://help.github.com/articles/fork-a-repo/
-[repo-tamplate]: https://github.com/robi-y/seproject-team-template
 [like-google]: http://blogs.microsoft.co.il/blogs/vprnd/archive/2011/01/22/776217.aspx
 [js-style-guide-google]: https://google.github.io/styleguide/javascriptguide.xml
 [js-style-guide-airbnb]: https://github.com/airbnb/javascript
