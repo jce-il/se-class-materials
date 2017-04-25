@@ -1,0 +1,8 @@
+.menu-item {
+  float: left;
+  width: 20%;
+  padding: 1%;
+  margin: 1%;
+  cursor: pointer;
+  text-decoration: underline;
+}

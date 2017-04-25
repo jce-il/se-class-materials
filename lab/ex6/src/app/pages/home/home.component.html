@@ -1,0 +1,38 @@
+<p>
+  home works!
+</p>
+<section>
+<h2>Login:</h2>
+<div> {{ (af.auth | async)?.uid }} </div>
+  <button (click)="login('twitter')">Login With Twitter</button>
+  <button (click)="login('google')">Login With Google</button>
+  <button (click)="overrideLogin()">Login Anonymously</button>
+</section>
+  <br>
+
+<section>
+  <h2>Firebase object</h2>
+  data: <span> {{item.$key}} </span>
+  <span> {{ item | async | json }} </span>
+
+  <br>
+  <button (click)='setObject("set")'>Set</button>
+  <button (click)='setObject("set2")'>Set2</button>
+  <button (click)='setObject("update")'>Update</button>
+  <button (click)='setObject("remove")'>Remove</button>
+</section>
+  
+<section>
+  <h2>Firebase list</h2>
+  <button (click)='setList("push", null, "Student 1", 20)'>Add student1</button>
+  <button (click)='setList("push", null, "Student 2", 20)'>Add student2</button>
+  <button (click)='setList("push", null, "Student 3", 20)'>Add student3</button>
+  <button (click)='setList("push", null, "Student 4", 20)'>Add student4</button>
+  <button (click)='setList("push", null, "Student 5", 20)'>Add student5</button>
+   <ul>
+    <li *ngFor="let item of items | async">
+       key: {{ item.$key }} data: {{ item | json}}
+      <button (click)='setList("remove", item.$key)'>Remove</button>
+      <button (click)="deleteItem(item.$key)">Delete</button>
+    </li>
+  </ul>
