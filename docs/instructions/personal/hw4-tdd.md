@@ -17,4 +17,4 @@
 דחיפת הקומיטים, שלשה שבועות אחרי הרצאת בדיקות ראשונה 10/1/17
 
 <!-- links -->
-[ex4-invitation]: 
+[ex4-invitation]: https://classroom.github.com/assignment-invitations/1edb8a3efe788c62781a61b4ec76aae1
