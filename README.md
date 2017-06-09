@@ -8,6 +8,8 @@ Wiki for course slides and instructions
 Corections or problems: open an issue or send a PR. For questions about the instructions use the course forum.
 
 ### [Lecture Slides](lecture/)
+- [Summary Notes](Lecture%20Summary/)
+
 ### [Lab Slides](lab/)
 
 ** Note: instructions are being updated towards the relevant class! **
