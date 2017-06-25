@@ -29,3 +29,5 @@ Corections or problems: open an issue or send a PR. For questions about the inst
   - [4. tdd](docs/instructions/personal/hw4-tdd.md)
   - [5. legacy-code](docs/instructions/personal/hw5-legacy.md)
   - [6. typing](docs/instructions/personal/hw6-typing.md) 
+
+<object data="/blob/master/invitation.pdf" type="application/pdf" width="100%" height="100%">
