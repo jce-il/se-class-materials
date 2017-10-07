@@ -1,6 +1,0 @@
-<div class="row">
-<div *ngFor="let i of menuItems" class="col-sm-3">
-  <app-menu-item (out)="childReciever($event)" [item]="i"></app-menu-item>
-</div>
-</div>
-<p>{{ childText }}</p>

@@ -1,9 +1,0 @@
-<div class="row">
-  <div *ngFor="let i of menuItems" class="col-sm-3">
-    <app-menu-item (out)="childReciever($event)" [item]="i"></app-menu-item>
-  </div>
-</div>
-<span *ngIf="userService.currentUser"> 
-  good morning: {{ userService.currentUser }} </span>
-<div class='clear'></div>
-<p>{{ childText }}</p>
