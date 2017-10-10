@@ -17,4 +17,4 @@
 עד ההרצאה האחרונה בסמסטר דחיפת הקומיטים 
 
 <!-- links -->
-[ex5-invitation]: https://classroom.github.com/assignment-invitations/b7ba2da67a1cc9175464f6b6363a862c
+[ex5-invitation]: 

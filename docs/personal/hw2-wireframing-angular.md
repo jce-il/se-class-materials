@@ -29,6 +29,8 @@
 באתר של AngularJS, ניתן למצוא את כל הדוקומנטציה, התקנה ודוגמאות: [angularjs](https://angularjs.org) .
 
 
+## Wire-framing
+
 #### שכפול הקוד
 
 המשך בקישור [מאגר תרגיל 2][ex2-repo-invitation].
@@ -38,5 +40,4 @@
 בהצלחה!
 
 <!-- links -->
-[ex2-repo-invitation]:https://classroom.github.com/assignment-invitations/554704687926ebca01457a3a068e6e2b
-
+[ex2-repo-invitation]:

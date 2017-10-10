@@ -23,6 +23,6 @@
 ### תאריכים
 עד היום האחרון של הסמסטר 28/6/17
 
-[הזמנה למאגר]: https://classroom.github.com/assignment-invitations/f87181f1345e09087625980936dcd81a
+[הזמנה למאגר]: 
 [intermediate]: https://www.typing.com/student/lessons/331
 [class-scoreboard]: https://www.typing.com/student/scoreboard

@@ -13,4 +13,4 @@
 שבועיים אחרי הרצאת בקרת התצורה
 
 <!-- links -->
-[ex3-invitation]: https://classroom.github.com/assignment-invitations/302d815bd6bcc2c25d9da02c5a85a054
+[ex3-invitation]: 
