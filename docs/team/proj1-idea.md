@@ -33,7 +33,8 @@
 
 ~~השנה אנחנו מפתחים מוצרי תוכנה עובר ארגונים חברתיים בירושלים שנענו לקול קורא. הזמנו את הארגונים ליריד במכללה, זאת כדי ליצור קשר בלתי אמצעי בין הסטודנטים לארגונים. מומלץ לבקר בכמה שיותר ארגונים אך כל סטודנט נדרש לסקור שתי הצעות יותר לעומק. אם יש לכם עוד שאלות לארגונים לאחר היריד, אפשר לפנות לפי פרטי הקשר.~~
 
-#### [רשימת הרעיונות]
+הטוב ביותר הוא רעיון מקורי או בעיה אמיתית שנתקלתם בה.
+
 
 במצגות השיעור הראשון תמצאו קישורים לסקרי [רעיונות מקורס קודמים][prev-ideas] להתרשמות. 
 
@@ -78,7 +79,25 @@
 0. סיכונים -  מה לדעתכם הסיכונים והבעיות העיקריים שהפרויקט עלול להיתקל בהם? כיצד תנמיכו או תתמודדו איתם. האם אפשר לפתור את הבעיה ללא פיתוח תוכנה? מהם הייתרונות שיכולים להתקבל מהשקעה בפיתוח. 
 0. הערות נוספות - עם מי התייעצתם במהלך הסקר, שאלות פתוחות וכדו׳
 
+### הרכב הציון
+
+הציון יחולק פחות או יותר לפי המאפיינים הבאים:
+
+- מקוריות הרעיון – 20%
+- הגדרת המוצר – 20%
+- תיכון ראשוני – 20%
+- תכנון וסיכונים – 20%
+
+- איכות ההצגה -  10%
+- רישום בזמן ועמידה בזמנים בהצגה! – 10%
+
+
 ### הוראות הגשה
+עד לתחילת ההרצאה הבאה, צריך:
+
+להירשם להצגה ע"י עריכת [דף פגישות הקורס][meeting-page]. כולל קישורים למצגת והמסמך (מצריך הרשאות כתיבה באתר – שתקבלו מצוות הקורס לאחר שתשלחו לנו בהודעה בפורום את שם המשתמש שלכם ב-github).
+את המסמכים יש למקם במקום ציבורי כך שכולם יוכלו לפתוח באמצעות הקישורים שלכם.
+הטוב ביותר הוא להעלות את הקבצים למאגר שלכם ב- github, עד שנלמד לעשות זאת תוכלו להעלות לאתר לבחירתכם, שרת קבצים, אחסון בענן, הספרייה הציבורית שלכם בכונן הרשת במכללה, [הוספה למערכת המשימות של מאגר][issue-attach] וכדומה. אפשר גם להעלות דרך ממשק הווב של גיטהאב ל[תיקיה הזו][idea-folder] במאגר הקורס (כפתור - upload files). אפשר גם במקום מסמך לפתוח שם עמוד ויקי המתעד את המחקר שביצעתם (בהמשך זו תהיה ברירת המחדל לכתיבת תיעוד).
 
 - 
 
@@ -106,14 +125,18 @@ http://www.pragprog.com/magazines/2010-10/way-of-the-agile-warrior)
 צוות הקורס
 
 <!-- Links -->
+[idea-folder]: https://github.com/jce-il/se-class/tree/master/ideas/2018
+[פורום הקורס]: https://gitter.im/jce-il/se18a
+
+
 [prev-ideas]:  https://github.com/jce-il/se-class/wiki/PastIdeas
 [past-projects]: https://github.com/jce-il/se-class/wiki/PastProjects
+[issue-attach]: https://help.github.com/articles/file-attachments-on-issues-and-pull-requests/
+[meeting-page]: https://github.com/jce-il/se-class/wiki/Meetings
 [community-ideas]: https://github.com/jce-il/se-class/wiki/community-ideas
 [community-pool]: https://docs.google.com/spreadsheets/d/1WS4-7GT-pvlxol_EYN-6Fpd80BRhzqKQ-OMDm9LgNJA/edit#gid=0
-[project2]: [[project/project2-team]]
 [google-blog-risk]: https://testing.googleblog.com/2016/06/the-inquiry-method-for-test-planning.html
 [uml-diagrams]: http://en.wikipedia.org/wiki/Applications_of_UML
-[פורום הקורס]: https://gitter.im/jce-il/se17b
 [טופס רישום]:  https://docs.google.com/forms/d/e/1FAIpQLScX2G4Ty4tQqXSgYrQdrE5UJP99eSSNo-94kczhgZjd-vLpxw/viewform
 [טופס סקר]:https://docs.google.com/forms/d/e/1FAIpQLScmCD1Pfj01_5YuoVklb7bSpSLNe9cVBEsS3MdvPzAqPgp0PA/viewform 
 [כלל הסקרים]: https://docs.google.com/spreadsheets/d/1y_sOGkOHcNAArdgfGEl27wuxQ_TnzfLDeO0PTW708ks/edit#gid=603015203
