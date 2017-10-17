@@ -100,4 +100,4 @@ GitHub הוא שרות git וכן מערכת ניהול פרויקטי תוכנ�
 [web-links]:https://github.com/jce-il/se-class/wiki/Links
 [using-group-chat]: https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d#.yur7rp88a
 [course-chat]: https://gitter.im/jce-il/se17b
-[ex1-repo-invitation]: <!-- https://classroom.github.com/assignment-invitations/fcc867e1dde1f3316f3f745a17906848 -->
+[ex1-repo-invitation]:  https://classroom.github.com/a/SnvdANBp
