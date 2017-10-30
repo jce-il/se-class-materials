@@ -8,7 +8,7 @@ Wiki for course slides and instructions
 Corections or problems: open an issue or send a PR. For questions about the instructions use the course forum.
 
 ### [Lecture Slides](lecture/)
-- [Summary Notes](Lecture%20Summary/)
+- [Summary Notes](https://github.com/TamarKl/se-class-materials/blob/master/notes)
 
 ### [Lab Slides](lab/)
 
