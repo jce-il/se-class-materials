@@ -92,7 +92,8 @@
 0. שונות בצוות - פסקה המתארת את כמות השונות בין חברי הצוות (מגדר, לאום, מגורים, השכלה, נסיון וכדו׳)
 0.	זיהוי הלקוח  –  מה שם (או כינוי) הלקוח שלכם? האם הוא אדם פרטי או ארגון? במידה ואין לקוח אמיתי (באישור צוות הקורס), יש למצוא סטודנט מחוץ לצוות או מצוות הקורס שיסכים לשמש כנציג הלקוח (בהתחייבות שלו להשקיע זמן במשוב)
 0.  בעלי עניין נוספים הקשורים לפרויקט למשל משקיעים, מנהלים, משתמשים וכדומה
-0. ערכי הצוות (בדומה למה שגיבשתם בהרצאת הצוות), [קוד התנהגות][contributor-code]) וכדומה
+0. ערכי הצוות (בדומה למה שגיבשתם בהרצאת הצוות), קוד התנהגות לתורמים, ראו
+[פה][contributor-code] או [פה][contributor-code2] (וגם דוגמא בקובץ CODE_OF_CONDUCT.md שבמאגר התבנית) וכדומה
 0. דרכי תקשורת מתוכננות אל ובין הצוות
 
 
@@ -141,7 +142,8 @@
 [like-google]: http://blogs.microsoft.co.il/blogs/vprnd/archive/2011/01/22/776217.aspx
 [js-style-guide-google]: https://google.github.io/styleguide/javascriptguide.xml
 [js-style-guide-airbnb]: https://github.com/airbnb/javascript
-[contributor-code]: http://contributor-covenant.org/version/1/0/0/ 
+[contributor-code]: https://opensource.guide/code-of-conduct/ 
+[contributor-code2]: http://contributor-covenant.org/version/1/0/0/ 
 [ReadySET]: http://readyset.tigris.org
 [McConnell]: http://www.construx.com/Page.aspx?nid=253
 [10q-pptx]: http://agilewarrior.files.wordpress.com/2011/02/blank-inception-deck1.pptx
