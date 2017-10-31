@@ -31,6 +31,8 @@ Git היא מערכת בקרת גרסאות קוד (נרחיב בנושא בהמ
 GitHub הוא שרות git וכן מערכת ניהול פרויקטי תוכנה ועוד בענן. בקורס נשתמש ב- github  בצורה נרחבת.
 הערה חשובה: ייתכן ששם המשתמש שתבחרו ילווה אתכם עוד כברת דרך כמהנדסי תוכנה ואפילו משמש כמעין CV בחלק מהמקומות, כך שכדאי לשקול אם אתם מעוניינים להשתמש בכינוי או בשמכם האמיתי - נבקש ששם המשתמש יוכל לזהות אתכם בקלות בינינו למשל ע״י שימוש בשם פרטי ואות ראשונה של שם המשפחה.
 
+ראו [gh-survey17] עמ' 24, מה בחרו מפתחים שונים.
+
 #### פתיחת חשבון
 
 עליכם לפתוח חשבון ב- github:
@@ -100,4 +102,5 @@ GitHub הוא שרות git וכן מערכת ניהול פרויקטי תוכנ�
 [web-links]:https://github.com/jce-il/se-class/wiki/Links
 [using-group-chat]: https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d#.yur7rp88a
 [course-chat]: https://gitter.im/jce-il/se17b
+[gh-survey17]: https://github.com/staeiou/github-survey-analysis/blob/master/github_survey_report.pdf
 [ex1-repo-invitation]:  https://classroom.github.com/a/SnvdANBp
