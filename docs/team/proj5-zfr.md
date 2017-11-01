@@ -74,6 +74,8 @@ _הערכה_: כמעט בלתי אפשרי להעריך מאמץ הנדרש למ
 3. דחיפת הקוד למאגר של הפרויקט ב- github (בשלב ראשוני זה מומלץ להשתמש בלקוח שמפשט את התהליך, למשל eclipse egit,  github-desktop וכדו׳ – ראו עמוד הכלים בויקי הקורס).
 הערה: הדרישה להמשך הקורס היא שיהיה תיעוד של מחבר הקוד בכל קומיט, בדרך כלל על יד מי שכתב אותו – ייתכן ניקוד לפי גרף פעילות.
 
+שימו לב שתוכן המאגר ציבורי ו[לשמור על נתונים של הלקוח][protect-user-data].
+
 ## אב טיפוס
 צרפו קישור להפצת אב-הטיפוס שלכם. בשלב זה ההפציה יכולה להיות מסך פשוט עם מידע ראשוני על הפרויקט, אך מומלץ להתחיל לבדוק טכנולוגיות נוספות נדרשות. במידת הצורך פרטו בעמוד ה-ZFR את תכולות אב הטיפוס.
 
@@ -118,3 +120,4 @@ _הערכה_: כמעט בלתי אפשרי להעריך מאמץ הנדרש למ
 [gfm-issues]: https://github.com/blog/1375-task-lists-in-gfm-issues-pulls-comments
 [repo-template]: https://github.com/jce-il/project-template/issues
 [iteration1]: https://github.com/jce-il/se-class-materials/blob/master/docs/proj6-iterations.md#1-תכנון-הסבב-הבא
+[protect-user-data]: https://github.com/collections/protect-user-data
