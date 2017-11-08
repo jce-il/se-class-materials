@@ -1,0 +1,5 @@
+<header>
+  <app-nav *ngFor="let item of navService.navItems" [text]="item.text" [routerLink]="item.url" ></app-nav>
+</header>
+
+<router-outlet></router-outlet>
