@@ -85,7 +85,7 @@
 
 - ביריד תקבלו טופס לדוגמא עם שם אחד הארגונים
 - לאחר ההשתתפות ביריד יש למלא את [טופס סקר]ֿ. תוכלו להתרשם מ[כלל הסקרים] שמולאו וכך בהמשך לבחור את הפרויקטים המועדפים על ידיכם.
-- שליחה אישית של עדיפויות לפרויקט ב[טופס רישום] 
+- שליחה אישית של עדיפויות לפרויקט ב[טופס רישום לפרויקט] 
 
 יש להוסיף בטופס פסקה עם תיאור כללי של הסיבה לבחירה שלכם, במקרה שאתם חלק מצוות מוצע של חמישה סטודנטים יש להוסיף פסקה שבה תשכנעו שהצוות הוא בעל **שונות** (diversity) (ראו גם בהגדרות [משימה קבוצתית 2][project2])
 
@@ -96,7 +96,7 @@
 
 
 ### הנחיות נוספות
-שימו לב לנושאי פרטיות ברשת – חלק גדול מתוצרי העבודה בקורס הם ציבוריים. במידה ואינכם מעוניינים לפרסם פרטים אישיים (כמו שם, ת.ז. ומייל) הקפידו שלא להשתמש בהם במסמכים שמועלים לאתר הקורס (ולכלול אותם רק בטופס ההגשה).
+שימו לב לנושאי פרטיות ברשת – חלק גדול מתוצרי העבודה בקורס הם ציבוריים. במידה ואינכם מעוניינים לפרסם פרטים אישיים (כמו שם, ת.ז. ומייל) הקפידו שלא להשתמש בהם במסמכים שמועלים לקישורים ציבוריים (ולכלול אותם רק בטופס ההגשה).
 
 
 זכרו שמשימה זו היא הבסיס להחלטה על המערכות שנפתח בהמשך הסמסטר. זו גם יכולה להיות הזדמנות לעבוד על רעיון שתמיד חלמתם עליו!
@@ -129,11 +129,14 @@ http://www.pragprog.com/magazines/2010-10/way-of-the-agile-warrior)
 [google-blog-risk]: https://testing.googleblog.com/2016/06/the-inquiry-method-for-test-planning.html
 [uml-diagrams]: http://en.wikipedia.org/wiki/Applications_of_UML
 
-[טופס סקר]:https://docs.google.com/forms/d/e/1FAIpQLScmCD1Pfj01_5YuoVklb7bSpSLNe9cVBEsS3MdvPzAqPgp0PA/viewform 
-[כלל הסקרים]: https://docs.google.com/spreadsheets/d/1y_sOGkOHcNAArdgfGEl27wuxQ_TnzfLDeO0PTW708ks/edit#gid=603015203
-[טבלת השיבוץ]: https://docs.google.com/document/d/1oLp-9rMG0Ol4qlQMQ4oKjlNFgYAHQjzqzNBE0EsZNtU/edit?usp=sharing
+[טופס סקר]: https://docs.google.com/forms/d/e/1FAIpQLScwlADnFv-9wBYb-l6fJanACqgP5DTRcrF-yGw2WI3-oldPaA/viewform
+[כלל הסקרים]: https://docs.google.com/spreadsheets/d/1EPS5kiOsl_A6zhUHmY1O6U4vLFy9OQLeGKzh1qY7izM/edit?usp=sharing
+[טופס רישום לפרויקט]: 
+
 [רשימת הרעיונות]: ./organizations.pdf
-[הדרכה בתרגיל אישי 1]: https://github.com/jce-il/se-class-materials/blob/master/docs/hw1-deploy-webapp.md#git--github
+[הדרכה בתרגיל אישי 1]: https://github.com/jce-il/se-class-materials/blob/master/docs/personal/hw1-deploy-webapp.md#git--github
+[project2]: https://github.com/jce-il/se-class-materials/blob/master/docs/team/proj2-inception.md
+
 [APIs]: https://github.com/abhishekbanthia/Public-APIs
 
 

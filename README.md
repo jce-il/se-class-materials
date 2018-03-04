@@ -28,6 +28,6 @@ Corections or problems: open an issue or send a PR. For questions about the inst
   - [3. git](docs/personal/hw3-git.md)
   - [4. tdd](docs/personal/hw4-tdd.md)
   - [5. legacy-code](docs/personal/hw5-legacy.md)
-  - [6. typing](docs/personal/hw6-typing.md) 
+  - ~~[6. typing](docs/personal/hw6-typing.md)~~ (ללא ציון) 
 
 <object data="/blob/master/invitation.pdf" type="application/pdf" width="100%" height="100%">
