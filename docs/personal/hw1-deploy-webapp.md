@@ -99,4 +99,4 @@ GitHub הוא שרות git וכן מערכת ניהול פרויקטי תוכנ�
 [using-group-chat]: https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d#.yur7rp88a
 [course-chat]: https://gitter.im/jce-il/se17b
 [gh-survey17]: https://github.com/staeiou/github-survey-analysis/blob/master/github_survey_report.pdf
-[ex1-repo-invitation]:  https://classroom.github.com/a/SnvdANBp
+[ex1-repo-invitation]:  https://classroom.github.com/...
