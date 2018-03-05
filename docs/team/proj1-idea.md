@@ -26,7 +26,7 @@
 הציון למשימה זו אינו נקבע לפי האם ההצעה שנסקרה עברה לשלב הבא, אלא רק איכותה ופרסומה בזמן. הציון ישוקלל כחלק מהגשות הפרויקט בקורס.
 
 ### עבודה והגשה
-המשימה הנוכחית מתבצעת בזוג (אפשר גם ביחיד), כל זוג סטודנטים סוקר לפחות הצעה אחת לעומק כותב ומפרסם דו״ח בטופס שלמטה.
+המשימה הנוכחית מתבצעת בזוגות (מי שלא מצא בן-זוג אז ביחיד), כל זוג סטודנטים סוקר לפחות הצעה אחת לעומק כותב ומפרסם דו״ח בטופס שלמטה.
 
 ## מבוא
 
@@ -39,6 +39,7 @@
 
 עליכם לבחון האם ההצעה מתאימה לצרכי הקורס בהתאם להנחיות שבהמשך מבחינת גודל ואפשרויות טכניות. מומלץ להתיייעץ עם צוות הקורס, (כולל רכזת התכנית). אפשר גם לפנות לאיש הקשר של הארגון המצוין בהצעה בבקשה לבירור פרטים.
 
+[רשימת הרעיונות]
 
 ## כללי
 
@@ -131,7 +132,7 @@ http://www.pragprog.com/magazines/2010-10/way-of-the-agile-warrior)
 
 [טופס סקר]: https://docs.google.com/spreadsheets/d/1qbAKaWl_AW9fxv4W83PK_3LNl5nymXiVb8rgcpHQW3w/edit?usp=sharing
 [כלל הסקרים]: https://docs.google.com/spreadsheets/d/1EPS5kiOsl_A6zhUHmY1O6U4vLFy9OQLeGKzh1qY7izM/edit?usp=sharing
-[טופס רישום לפרויקט]: 
+[טופס רישום לפרויקט]: https://docs.google.com/forms/d/e/1FAIpQLSfdz7YVcI2xXVK-2BmK6OBXZzU0KW_O7lOpYsbw0VwcCPvhyg/viewform
 
 [רשימת הרעיונות]: ./organizations.pdf
 [הדרכה בתרגיל אישי 1]: https://github.com/jce-il/se-class-materials/blob/master/docs/personal/hw1-deploy-webapp.md#git--github
