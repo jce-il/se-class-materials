@@ -131,7 +131,7 @@ http://www.pragprog.com/magazines/2010-10/way-of-the-agile-warrior)
 [uml-diagrams]: http://en.wikipedia.org/wiki/Applications_of_UML
 
 [טופס סקר]: https://docs.google.com/forms/d/e/1FAIpQLScwlADnFv-9wBYb-l6fJanACqgP5DTRcrF-yGw2WI3-oldPaA/viewform
-[כלל הסקרים]: https://docs.google.com/spreadsheets/d/1EPS5kiOsl_A6zhUHmY1O6U4vLFy9OQLeGKzh1qY7izM/edit?usp=sharing
+[כלל הסקרים]: https://docs.google.com/spreadsheets/d/1qbAKaWl_AW9fxv4W83PK_3LNl5nymXiVb8rgcpHQW3w/edit?usp=sharing
 [טופס רישום לפרויקט]: https://docs.google.com/forms/d/e/1FAIpQLSfdz7YVcI2xXVK-2BmK6OBXZzU0KW_O7lOpYsbw0VwcCPvhyg/viewform
 
 [רשימת הרעיונות]: ./organizations.pdf
