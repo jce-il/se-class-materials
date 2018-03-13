@@ -10,13 +10,13 @@
 - רישום והיכרות עם מערכות הקורס
 - תיעוד בעזרת ויקי ושפת markdown
 - הקמת אפליקציה עם הפצה מתמשכת
-- היכרות עם סביבת MEAN Stack
+
 
 ### הרכב הציון
 - השלמת המשימה בזמן
 
 ### הגשה
-- באמצעות קבלת ההזמנה למאגר התרגיל (בהמשך) ועדכונו עד לתאריך ההגשה: 6/03/2017 23:59 (שבוע)
+- באמצעות קבלת ההזמנה למאגר התרגיל (בהמשך) ועדכונו עד לתאריך ההגשה: 21/03/2018 23:59 (שבוע)
 
 ---
 
@@ -71,7 +71,6 @@ GitHub הוא שרות git וכן מערכת ניהול פרויקטי תוכנ�
 
 כיום מקובלת הפרקטיקה של הפצה מתמשכת (continuous deplyoment) שבה המוצר זמין לאורך הפרויקט בגרסאות מתקדמות בווב.
 
-בתור התחלה נפיץ שלד אפליקציה שמכיל את הרכיבים הבסיסיים של אפליקציית רשת מליאה המכילה: צד שרת, בסיס נתונים וצד לקוח. הקוד יאוחסן בגיטהאב ויסנכרן עם ספק ענן heroku. בדרך כלל מחוללים במחשב מקומי ובודקים לפני ההפצה, אבל אנחנו נשתמש בקוד מוכן ונפיץ אותו ישר.
 
 ####  Firebase - פתיחת חשבון
 
@@ -97,6 +96,6 @@ GitHub הוא שרות git וכן מערכת ניהול פרויקטי תוכנ�
 [course-wiki]: https://github.com/jce-il/se-class/wiki
 [web-links]:https://github.com/jce-il/se-class/wiki/Links
 [using-group-chat]: https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d#.yur7rp88a
-[course-chat]: https://gitter.im/jce-il/se17b
+[course-chat]: https://gitter.im/jce-il/se18b
 [gh-survey17]: https://github.com/staeiou/github-survey-analysis/blob/master/github_survey_report.pdf
 [ex1-repo-invitation]:  https://classroom.github.com/...
