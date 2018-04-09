@@ -50,4 +50,4 @@
 הערה: מדריך לספריה חליפית https://github.com/dwyl/learn-tape 
 
 <!-- links -->
-[ex4-invitation]: https://classroom.github.com/a/y0k10bIo
+[ex4-invitation]: <!-- https://classroom.github.com/a/y0k10bIo -->
