@@ -30,4 +30,7 @@ Corections or problems: open an issue or send a PR. For questions about the inst
   - [5. legacy-code](docs/personal/hw5-legacy.md)
   - ~~[6. typing](docs/personal/hw6-typing.md)~~ (ללא ציון) 
 
-<object data="/blob/master/invitation.pdf" type="application/pdf" width="100%" height="100%">
+
+![Closing Event](https://github.com/jce-il/se-class-materials/blob/master/event.jpg?raw=true)
+
+<!-- <object data="/blob/master/invitation.pdf" type="application/pdf" width="100%" height="100%"> -->
